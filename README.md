@@ -1,5 +1,5 @@
 # arp2morse
-Use python to scan your network for know devices (by MAC address). If a known device is found send a subtle morse signal.
+Use python to scan your network for known devices (by MAC address). If a known device is found send a subtle morse signal.
 
 ----
 The code was tested on a Laptop running Kubuntu and on a Raspberry Pi 3 running [Raspian Jessie Lite] (https://www.raspberrypi.org/downloads/raspbian/).
