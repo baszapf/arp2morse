@@ -14,5 +14,5 @@ Just as [@cptdeadbones] (https://github.com/cptdeadbones/python_morse_code) I us
 * [install Python] (https://www.python.org/)
 * download the sound files mentioned above
 * add your _MAC addresses_ and your _path to the sound files_ in *arp2morse.py*
-* open a Terminal and run 'sudo python arp2morse.py 192.168.0.0/24' (your IP address my vary)
-* listen to the code'
+* open a Terminal and run `sudo python arp2morse.py 192.168.0.0/24` (your IP address my vary)
+* listen to the code
