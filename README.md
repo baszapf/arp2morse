@@ -2,7 +2,7 @@
 Use python to scan your network for know devices (by MAC address). If a known device is found send a subtle morse signal.
 
 ----
-The code was tested on a Laptop running Kubuntu and on a Raspberry Pi 3 running [Raspian Jessie Lite])https://www.raspberrypi.org/downloads/raspbian/).
+The code was tested on a Laptop running Kubuntu and on a Raspberry Pi 3 running [Raspian Jessie Lite] (https://www.raspberrypi.org/downloads/raspbian/).
 
 This little project mainly stiches together small bits of code created by different people. A nice introduction to python and morse code can be found at [Morse Code and Dictionaries in Python (with Sound)] (http://thelivingpearl.com/2013/01/08/morse-code-and-dictionaries-in-python-with-sound/) by @cptdeadbones. This blogpost and software saved me hours of trying. 
 
